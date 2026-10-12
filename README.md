@@ -34,7 +34,9 @@ Demo state is local and resets on reload. There is no backend, publishing integr
 
 ## Screenshots
 
-_Placeholder: add `docs/screenshots/light.png` and `docs/screenshots/dark.png` after capturing the running playground._
+<img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/53ecb57f-d9cf-4b3a-8ec6-9a315b364ae2" />
+<img width="1894" height="904" alt="image" src="https://github.com/user-attachments/assets/455ecaa8-2b35-46a8-9c2c-95b029cbd864" />
+
 
 ## Keyboard guide
 
